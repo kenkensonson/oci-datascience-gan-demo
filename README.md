@@ -5,7 +5,6 @@
 ##### デモコード：DCGAN_MNIST.ipynb (手書き数字画像の生成)
 ### Session 2 : StackGANの概要とデモンストレーション
 ##### 資料 : 20210531_OraJam_StackGAN.pdf
-##### デモコード : 01_StackGAN_test1.ipynb, 02_StackGAN_test2.ipynb
-
+##### デモコード : 01_StackGAN_test1.ipynb, 02_StackGAN_test2.ipynb, StackGAN_README.txt
 ### 動画
 #### https://www.youtube.com/watch?v=t5EqEoVAdfk&ab_channel=JapanOracleDevelopers
